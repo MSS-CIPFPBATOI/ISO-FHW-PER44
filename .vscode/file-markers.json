@@ -1,0 +1,94 @@
+{
+  "markerTypes": [
+    {
+      "id": "done",
+      "badge": "✓",
+      "color": "gitDecoration.addedResourceForeground",
+      "label": "Done"
+    },
+    {
+      "id": "in-progress",
+      "badge": "◐",
+      "color": "gitDecoration.modifiedResourceForeground",
+      "label": "In Progress"
+    },
+    {
+      "id": "pending",
+      "badge": "○",
+      "color": "gitDecoration.deletedResourceForeground",
+      "label": "Pending"
+    },
+    {
+      "id": "important",
+      "badge": "★",
+      "color": "editorWarning.foreground",
+      "label": "Important"
+    },
+    {
+      "id": "review",
+      "badge": "◉",
+      "color": "editorInfo.foreground",
+      "label": "Needs Review"
+    },
+    {
+      "id": "question",
+      "badge": "?",
+      "color": "editorHint.foreground",
+      "label": "Question"
+    }
+  ],
+  "markers": {
+    "Documentacion/Entregas/Tasca-0/Ap+": "done",
+    "Documentacion/Entregas/Tasca-0/Ap+/T0-Recursos_Sistemas": "done",
+    "Documentacion/Entregas/Tasca-0/Ap+/T0-Esquema_MV": "done",
+    "Documentacion/Entregas/Tasca-2/Ap+": "pending",
+    "Documentacion/Entregas/Tasca-2/Ap": "done",
+    "Documentacion/Entregas/Tasca-0": "done",
+    "Documentacion/Entregas": "important",
+    "Documentacion/Entregas/Tasca-2": "in-progress",
+    "Documentacion/Entregas/Tasca-4": "in-progress",
+    "Documentacion/Entregas/Tasca-4/Ap": "done",
+    "Documentacion/Entregas/Tasca-4/Ap+": "in-progress",
+    "Documentacion/Entregas/Tasca-2/Ap/T2-Comparativa_Inventario": "done",
+    "Documentacion/Entregas/Tasca-2/Ap/T2-Inventario_Grupo": "done",
+    "Documentacion/Entregas/Tasca-2/Ap/T2-Inventario_Invidual": "done",
+    "Documentacion/Entregas/Tasca-4/Ap/T4-Esquema_Xarxa": "done",
+    "Documentacion/Entregas/Tasca-4/Ap+/T4-Implementacio_Xarxa": "done",
+    "Documentacion/Entregas/Tasca-5": "in-progress",
+    "Documentacion/Entregas/Tasca-6": "pending",
+    "Documentacion/Entregas/Tasca-7": "pending",
+    "Documentacion": "important",
+    "Documentacion/Entregas/Tasca-0/Ap": "done",
+    "Documentacion/Entregas/Tasca-5/Ap+": "pending",
+    "Documentacion/Entregas/Tasca-5/Ap": "in-progress",
+    "Catergoria": "important"
+  },
+  "lineHighlightTypes": [
+    {
+      "id": "highlight-yellow",
+      "color": "rgba(255, 235, 59, 0.3)",
+      "label": "Yellow Highlight"
+    },
+    {
+      "id": "highlight-green",
+      "color": "rgba(76, 175, 80, 0.3)",
+      "label": "Green Highlight"
+    },
+    {
+      "id": "highlight-blue",
+      "color": "rgba(33, 150, 243, 0.3)",
+      "label": "Blue Highlight"
+    },
+    {
+      "id": "highlight-red",
+      "color": "rgba(244, 67, 54, 0.3)",
+      "label": "Red Highlight"
+    },
+    {
+      "id": "highlight-purple",
+      "color": "rgba(156, 39, 176, 0.3)",
+      "label": "Purple Highlight"
+    }
+  ],
+  "lineHighlights": {}
+}
